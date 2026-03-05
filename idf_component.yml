@@ -1,0 +1,6 @@
+dependencies:
+  idf:
+    version: ">=5.5.0"
+  apolesskiy/battery-charge-percent:
+    version: ">=0.1.0"
+    git: git@github.com:apolesskiy/battery-charge-percent.git
