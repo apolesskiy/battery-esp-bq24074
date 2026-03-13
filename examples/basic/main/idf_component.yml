@@ -1,0 +1,8 @@
+version: "0.1.0"
+description: "main"
+
+dependencies:
+  idf:
+    version: ">=5.5.0"
+  apolesskiy/battery-esp-bq24074:
+    path: "../../.."

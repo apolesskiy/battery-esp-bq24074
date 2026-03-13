@@ -7,4 +7,4 @@ dependencies:
     version: ">=5.5.0"
   apolesskiy/battery-charge-percent:
     git: git@github.com:apolesskiy/battery-charge-percent.git
-    version: ">=0.1.0"
+    version: "0.1.0"
